@@ -1,3 +1,8 @@
+# =========================
+# Unity .gitignore (полный)
+# =========================
+
+# --- Unity сгенерированные папки ---
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -7,5 +12,66 @@
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
-/Library
-/Library
+
+# --- Asset meta data (не игнорировать meta-файлы) ---
+!/[Aa]ssets/**/*.meta
+
+# --- Автогенерируемые файлы решений и проектов IDE ---
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Unity3D сгенерированные meta-файлы ---
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# --- Crash reports Unity ---
+sysinfo.txt
+crashlytics-build.properties
+*.stackdump
+
+# --- Сборки ---
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+
+# --- Addressables ---
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# --- Asset Store Tools / JetBrains ---
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# --- IDE / редакторы ---
+.vs/
+.idea/
+.vscode/
+.gradle/
+*.VC.VC.opendb
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Логи и временные файлы ---
+*.log
+*.tmp
