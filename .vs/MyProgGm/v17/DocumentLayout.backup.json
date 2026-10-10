@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Unity project\\MyProgGm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3226B6E4-DEE9-8C66-83A1-0039BEAFB407}|Assembly-CSharp.csproj|c:\\unity project\\myproggm\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3226B6E4-DEE9-8C66-83A1-0039BEAFB407}|Assembly-CSharp.csproj|C:\\Unity project\\MyProgGm\\assets\\scripts\\pause_bt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3226B6E4-DEE9-8C66-83A1-0039BEAFB407}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause_bt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity project\\MyProgGm\\Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3226B6E4-DEE9-8C66-83A1-0039BEAFB407}|Assembly-CSharp.csproj|C:\\Unity project\\MyProgGm\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3226B6E4-DEE9-8C66-83A1-0039BEAFB407}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprite-Lit-Default.shader",
+              "DocumentMoniker": "C:\\Unity project\\MyProgGm\\Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ToolTip": "C:\\Unity project\\MyProgGm\\Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a0dd9d2bd983\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-10-10T07:24:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pause_BT.cs",
+              "DocumentMoniker": "C:\\Unity project\\MyProgGm\\Assets\\Scripts\\Pause_BT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause_BT.cs",
+              "ToolTip": "C:\\Unity project\\MyProgGm\\Assets\\Scripts\\Pause_BT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pause_BT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T07:13:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Unity project\\MyProgGm\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
               "ToolTip": "C:\\Unity project\\MyProgGm\\Assets\\Scripts\\Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T15:44:44.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T15:44:44.747Z"
             }
           ]
         }
